@@ -1,0 +1,1 @@
+# Singleton-And-Factory-Pattern
