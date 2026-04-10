@@ -12,7 +12,7 @@ namespace Padrões_de_Projeto___a
     {
         public void sendText(string msg)
         {
-            Console.WriteLine("SMS externo: " + msg);
+            Console.WriteLine("SMS externo: " + msg); //simulando api
         }
     }
 }

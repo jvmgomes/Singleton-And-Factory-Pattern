@@ -12,7 +12,7 @@ namespace Padrões_de_Projeto___a
     {
         private ExternalSmsService external = new ExternalSmsService();
 
-        public void send(string message)
+        public void send(string message) // adapter
         {
             external.sendText(message);
         }
