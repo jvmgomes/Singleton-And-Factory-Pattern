@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -34,6 +34,12 @@ namespace Padrões_de_Projeto___a
 
             Notification push = NotificationFactory.Create("PuSh");
             push.send("Notificação Pintando na Área");
+
+            // ---------------
+            // funcionamento do proxy e adapter
+
+            var n = NotificationFactory.Create("sms");
+            n.send("teste");
 
         }
     }

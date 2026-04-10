@@ -12,17 +12,25 @@ namespace Padrões_de_Projeto___a
     {
         public static Notification Create(string value)
         {
+            Notification notification;
+
             switch(value.ToLower())
             {
                 case "email":
-                    return new Email();
+                    notification = new Email();
+                    break;
                 case "push":
-                    return new Push();
+                    notification = new Push();
+                    break;
                 case "sms":
-                    return new Sms();
+                    notification = new SmsAdapter();
+                    break;
+
                 default:
                     throw new ArgumentException("Tipo de Notificação Inválido");
             }
+            
+            return new NotificationProxy(notification); // proxy
         }
     }
 }

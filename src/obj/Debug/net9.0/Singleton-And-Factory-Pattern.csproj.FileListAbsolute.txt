@@ -1,0 +1,15 @@
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\obj\Debug\net9.0\Singleton-And-Factory-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\obj\Debug\net9.0\Singleton-And-Factory-Pattern.AssemblyInfoInputs.cache
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\obj\Debug\net9.0\Singleton-And-Factory-Pattern.AssemblyInfo.cs
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\obj\Debug\net9.0\Singleton-And-Factory-Pattern.csproj.CoreCompileInputs.cache
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\obj\Debug\net9.0\Singleton-And-Factory-Pattern.sourcelink.json
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\bin\Debug\net9.0\Singleton-And-Factory-Pattern.exe
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\bin\Debug\net9.0\Singleton-And-Factory-Pattern.deps.json
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\bin\Debug\net9.0\Singleton-And-Factory-Pattern.runtimeconfig.json
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\bin\Debug\net9.0\Singleton-And-Factory-Pattern.dll
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\bin\Debug\net9.0\Singleton-And-Factory-Pattern.pdb
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\obj\Debug\net9.0\Singleton-And-Factory-Pattern.dll
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\obj\Debug\net9.0\refint\Singleton-And-Factory-Pattern.dll
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\obj\Debug\net9.0\Singleton-And-Factory-Pattern.pdb
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\obj\Debug\net9.0\Singleton-And-Factory-Pattern.genruntimeconfig.cache
+C:\Ws\projoo\Singleton-And-Factory-Pattern\src\obj\Debug\net9.0\ref\Singleton-And-Factory-Pattern.dll
